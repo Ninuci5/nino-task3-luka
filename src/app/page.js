@@ -4,7 +4,8 @@ export default function Home() {
   return (
     <>
       <Products />
-      <div>main page content</div>
+      <div>main page content</div> 
+      <button>this is button</button> 
     </>
   );
 }
